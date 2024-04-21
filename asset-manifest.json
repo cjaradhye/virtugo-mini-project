@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/virtugo-mini-project/static/css/main.ed7a5465.css",
+    "main.js": "/virtugo-mini-project/static/js/main.871ab507.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/virtugo-mini-project/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bag.png": "/virtugo-mini-project/static/media/bag.64da4db75731b427191c.png",
+    "static/media/bag1.jpg": "/virtugo-mini-project/static/media/bag1.175ef2380ca90a944a75.jpg",
+    "index.html": "/virtugo-mini-project/index.html",
+    "main.ed7a5465.css.map": "/virtugo-mini-project/static/css/main.ed7a5465.css.map",
+    "main.871ab507.js.map": "/virtugo-mini-project/static/js/main.871ab507.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/virtugo-mini-project/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7a5465.css",
+    "static/js/main.871ab507.js"
+  ]
+}
